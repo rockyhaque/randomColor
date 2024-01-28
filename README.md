@@ -40,7 +40,7 @@ Experience the Random Color Generator: [Random Color Generator Demo](https://roc
 ## How to Use
 
 1. Open the [Random Color Generator Demo](https://rockyhaque.github.io/randomColor/).
-2. Click the "Generate Color" button.
+2. Click the "Generate" button.
 3. See the generated random color displayed on the screen along with its hex code.
 4. Click the button again to generate a new random color.
 
